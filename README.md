@@ -3,9 +3,9 @@
 
 <h3>Весна 2025 ml basics<h3>
 
-<a href="https://github.com/pyshka501/courses_MSU/blob/main/ml_basics_spring_25/Lessons/data_preproccesing01.ipynb">Занятие 1 (методы загрузки данных)</a>
+<a href="https://github.com/pyshka501/courses_MSU/blob/main/Lessons/1_Data_load/data_preproccesing01.ipynb">Занятие 1 (методы загрузки данных)</a>
 
-<a href="#">Д/з по теме "методы загрузки данных"</a>  
+<a href="https://github.com/pyshka501/courses_MSU/blob/main/Lessons/1_Data_load/HW1_data_loading.ipynb">Д/з по теме "методы загрузки данных"</a>  
 
 
 <a href="#">Занятие 2 (numpy, pandas, немного визуализации, если успеем)</a>
