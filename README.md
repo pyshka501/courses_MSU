@@ -8,6 +8,12 @@
 <a href="https://github.com/pyshka501/courses_MSU/blob/main/Lessons/1_Data_load/HW1_data_loading.ipynb">Д/з по теме "методы загрузки данных"</a>  
 
 
-<a href="#">Занятие 2 (numpy, pandas, немного визуализации, если успеем)</a>
+<a href="#">Занятие 2 (numpy, pandas)</a>
 
 <a href="#">Д/з по теме "numpy, pandas..."</a>  
+
+<a href="https://youtu.be/ZtAozLCDEMU?si=IVInbte0HW15VXTR">Занятие 3 (Визуализация данных)</a>
+
+<a href="https://youtu.be/U6At5v2QYyU?si=3ZJyvQatVhifOdCP">Занятие 4 (Градиентный бустинг и его особенности)</a>
+
+<a href="#">Занятие 5 (Ансамблевые методы (стекинг))</a>
